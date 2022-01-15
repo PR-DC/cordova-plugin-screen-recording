@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-screen-recording",
+  "version": "1.0.0",
+  "description": "Cordova plugin for Android Screen Recording",
+  "cordova": {
+    "id": "cordova-plugin-screen-recording",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Miloš Petrašinović <mpetrasinovic@pr-dc.com>",
+  "license": "GPL-3.0-or-later",
+  "main": "./www/ScreenRecord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PR-DC/cordova-plugin-screen-recording.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PR-DC/cordova-plugin-screen-recording/issues"
+  },
+  "homepage": "https://github.com/PR-DC/cordova-plugin-screen-recording#readme"
+}

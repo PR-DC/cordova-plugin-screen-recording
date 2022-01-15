@@ -1,0 +1,10 @@
+--------------------
+cordova-plugin-screen-recording
+Cordova plugin for Android Screen Recording (Screen Capture).
+--------------------
+
+Release 1.0.0, 15.01.2022.
+
+- Initial release
+
+--------------------
